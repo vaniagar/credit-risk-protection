@@ -2,7 +2,6 @@
 
 A machine learning project where I predict whether a credit card customer will default on their loan payment next month.
 
----
 
 ## The Problem
 When a bank lends money or issues credit cards, it faces a trade-off:
